@@ -36,9 +36,10 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 > El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. 
 	- Ejemplo:
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg)
 
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
-	- Ejemplo:
+- Ejemplo:
 6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**
 
 ### 3. Guía rápida de formato para archivos `.md`
@@ -64,7 +65,6 @@ Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de
 ### 5.  Contacto
 El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escríbeme directamente a [http://wa.me/18609348375](http://wa.me/18609348375) o envíame un correo a rodrigotorresterrones@gmail.com
 No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentication y el número de WhatsApp no está ligado a mi correo. 😊
-
-
+![enter image description here](https://i.ibb.co/0y3h2d2/1.jpg)
 
 Hecho con amor por Gabriel Torres 💛 desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
