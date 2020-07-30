@@ -23,7 +23,7 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 1. Editores visuales de texto WYSIWYG (What You See Is What You Get)
 	- [Notion](https://www.notion.so/): Además de ser el sugerido por su facilidad. En él controlamos el avance del proyecto usando GTD (Getting Things Done). Si te registras con coreo de estudiante `.edu` tienes plan Personal Pro de forma gratuita.
 	-  StackEdit.io: Es similar pero aporta una vista de código y de resultados en paralelo. Si has trabajado con LaTeX te será super familiar, tiene una curva de aprendizaje más pronunciada pero ofrece más herramientas.
-	- [101 Clip] Es útil para copiar y pegar gran cantidad de títulos y subtítulos de la web de Platzi a las notas, es un portapapeles. Esto es para ayudar en el paso 2 del la parte 2. Te dejo un [link](https://www.majorgeeks.com/mg/getmirror/101_clips,1.html) para bajar la herramienta. 
+	- 101 Clip: Es útil para copiar y pegar gran cantidad de títulos y subtítulos de la web de Platzi a las notas, es un portapapeles. Esto es para ayudar en el paso 2 del la parte 2. Te dejo un [link](https://www.majorgeeks.com/mg/getmirror/101_clips,1.html) para bajar la herramienta. 
 	- GitHub :octocat: : No necesita presentación. Aquí es donde compartiremos con el resto del universo 🌌 nuestro trabajo. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [platzi.com/git](https://platzi.com/cursos/git-github/) Freddy te enseñara.
 
 ### 2. Workflow y guidelines
@@ -31,9 +31,9 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
 	- Ejemplo:
 2. Copia al cuaderno la estructura del curso. Asi los apuntes tendran estructura. 
-	1. # Para el nombre del cusro.
-	2. ## Para las secciones
-	3. ### Para cada clase. 
+	1. '#' Para el nombre del cusro.
+	2. '##' Para las secciones
+	3. '###' Para cada clase. 
 	- Ejemplo:
 	
 | Web del curso en Platzi | Estructura del apuntes |  
