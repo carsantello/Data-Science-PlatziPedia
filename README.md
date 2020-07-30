@@ -31,7 +31,20 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
 	- Ejemplo:
 2. Copia al cuaderno la estructura del curso.
-	 -	Ejemplo:
+	- Ejemplo:
+	
+| col 1 | col 2 |  
+|------------|-------------|  
+| <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/rvjxt06/2.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
+
+	
+	
+	
+	
+	
+	
+	
+	
 3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre muchos comentarios. Por favor haz una referencia simple al autor con el siguiente formato (Autor, link)
 > El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. 
@@ -68,3 +81,14 @@ No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentic
 ![enter image description here](https://i.ibb.co/0y3h2d2/1.jpg)
 
 Hecho con amor por Gabriel Torres 💛 desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
+
+
+
+
+
+
+
+
+
+
+
