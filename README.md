@@ -1,5 +1,3 @@
-
-
 #  Data-Science-PlatziWiki
 Repositorio de notas y apuntes de los cursos que conforman la escuela de Data Science en Platzi.💚
 
@@ -30,7 +28,7 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por favor)
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
 	- Ejemplo:
-	<img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />
+	<img  src="https://i.ibb.co/PxBGqCT/GTD.jpg"  alt="Kitten"  title="A cute kitten"  height="235"  />
 	
 2. Copia al cuaderno la estructura del curso. Asi los apuntes tendran estructura. 
 	1. '#' Para el nombre del cusro.
@@ -57,7 +55,7 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 
 | Bloque de codigo | Linea de codigo |  
 |------------|-------------|  
-| <img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/GdMQXjR/code-lines.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
+| <img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  height="235"  />|<img  src="https://i.ibb.co/GdMQXjR/code-lines.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 
 
 6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**
