@@ -35,7 +35,7 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 	
 | Web del curso en Platzi | Estructura del apuntes |  
 |------------|-------------|  
-| <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/rvjxt06/2.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
+| <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/f1MZK0n/1-1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 
 	
 	
