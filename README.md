@@ -48,10 +48,13 @@ Es lo más sencillo posible. Si tienes una idea para mejorar, hazmela saber por 
 		|------------|-------------|  
 		| <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/f1MZK0n/1-1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 	
-3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre todos los demas. Por favor haz una referencia simple al autor con el siguiente formato '(Autor, link)'.
+3. Sigue el orden proyesto por Platzi.
+En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre todos los demas. Por favor haz una referencia simple al autor con el siguiente formato '(Autor, link)'.
 	> El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
-4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. Mientras mas estructuado mejor. 
-5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
+4. Mientras más estructurado mejor. 
+Enumera, usa puntos, evita poner bloques enormes de texto. Mientras mas estructuado mejor. 
+5. Código
+Debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
 	- Ejemplo:
 
 		| Bloque de codigo | Linea de codigo |  
@@ -59,14 +62,15 @@ Es lo más sencillo posible. Si tienes una idea para mejorar, hazmela saber por 
 		| <img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  height="235"  />|<img  src="https://i.ibb.co/GdMQXjR/code-lines.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 
 
-6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**.
+6. Al terminar
+Envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**.
 
 ### 3. Guía rápida de formato para archivos `.md`
 Puedes encontrar material en las siguientes webs. Recuerda que esto es para agregarle algo especial a tu trabajo. Casi todo se puede hacer en Notion. 
 
-	- [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
-	
-	- [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+[https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+
+[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 ### 4. Equipo
 Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de los estudiantes  de la escuela de Data Science en Platzi.💚  Para construir una fuente ordenada y sistematizada de información de escuela de Data Science. El equipo está integrado por:
