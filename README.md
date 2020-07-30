@@ -95,7 +95,7 @@ El equipo está integrado por:
 	- Gabriel Torres 
 
 ### 5.  Contacto
-El repositorio fue creado por Gabriel Torres. Si quieres comunicarte con nosotros este [formaulario](https://forms.gle/ECTwTigseVgrvFQ16) esta a a tu disposición.
+El repositorio fue creado por Gabriel Torres y es mantenido por un equipo increible que es parte de la comunidad de Platzi 💚. Si quieres comunicarte con nosotros este [formaulario](https://forms.gle/ECTwTigseVgrvFQ16) esta a a tu disposición.
 
 ##
 
