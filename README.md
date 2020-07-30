@@ -1,11 +1,12 @@
 
-#  Data-Science-Wiki
-Repositorio de notas, apuntes y referencias de los cursos que conforman la escuela de Data Science en Platzi.💚
 
-El objetivo es sistematizar la información de todos los cursos y servir de de base a futuros estudiantes.
+#  Data-Science-PlatziWiki
+Repositorio de notas y apuntes de los cursos que conforman la escuela de Data Science en Platzi.💚
 
-Por favor revisa los apartados **1** y **2**  antes de empezar a colaborar; el **3** es consulta rápida para dar formato  a los `.md` (Notion lo hace en automático, pero está ahí si es necesario).
-Los dos ultimos. El apartado **4**  habla del equipo que hay detrás del proyecto y al finalizar en la parte **5** están mis datos de contacto. 
+El objetivo es sistematizar la información de todos los cursos y servir de referencia a futuros estudiantes.
+
+Por favor revisa los apartados **1** y **2**  antes de empezar a colaborar; el **3** es de consulta rápida para dar formato  a los `.md` (Notion lo hace en automático, pero está ahí si es necesario).
+El apartado **4**  habla del equipo que hay detrás del proyecto y para finalizar en la parte **5** están mis datos de contacto. 
 
 En este proyecto demostramos una vez más que somos una comunidad increíble. 💚 
 
@@ -19,23 +20,25 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 5. Contacto
 ##   
 ### 1. Heramientas
-1. Editores visuales de texto WYSIWYG
-	- Notion: Además de ser el sugerido por su facilidad. En el controlamos el el avance del proyecto usando GTD. Si te registras con coreo de estudiante `.edu` tienes plan Personal Pro de forma gratuita.
+1. Editores visuales de texto WYSIWYG (What You See Is What You Get)
+	- [Notion](https://www.notion.so/): Además de ser el sugerido por su facilidad. En él controlamos el avance del proyecto usando GTD (Getting Things Done). Si te registras con coreo de estudiante `.edu` tienes plan Personal Pro de forma gratuita.
 	-  StackEdit.io: Es similar pero aporta una vista de código y de resultados en paralelo. Si has trabajado con LaTeX te será super familiar, tiene una curva de aprendizaje más pronunciada pero ofrece más herramientas.
-	- GitHub :octocat: : No necesita presentación. Aquí es donde todos compartiremos con el resto del universo 🌌 nuestro trabajo. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [https://platzi.com/cursos/git-github/](https://platzi.com/cursos/git-github/) Freddy te enseñara.
+	- [101 Clip] Es útil para copiar y pegar gran cantidad de títulos y subtítulos de la web de Platzi a las notas, es un portapapeles. Esto es para ayudar en el paso 2 del la parte 2. Te dejo un [link](https://www.majorgeeks.com/mg/getmirror/101_clips,1.html) para bajar la herramienta. 
+	- GitHub :octocat: : No necesita presentación. Aquí es donde compartiremos con el resto del universo 🌌 nuestro trabajo. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [platzi.com/git](https://platzi.com/cursos/git-github/) Freddy te enseñara.
 
 ### 2. Workflow y guidelines
 Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por favor)
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
+	- Ejemplo:
 2. Copia al cuaderno la estructura del curso.
 	 -	Ejemplo:
 3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre muchos comentarios. Por favor haz una referencia simple al autor con el siguiente formato (Autor, link)
-> El que busca encuentra. (Mi Abuelita, [[platzi.com/comentario/1/](https://platzi.com/comentario/1/)
+> El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. 
 	- Ejemplo:
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
-- Ejemplo.
-6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama master, se moverá a **Done**
+- Ejemplo:
+6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**
 
 ### 3. Guía rápida de formato para archivos `.md`
 Puedes encontrar material en las siguientes webs. Recuerda que esto es para agregarle algo especial a tu trabajo. Casi todo se puede hacer en Notion. 
@@ -58,9 +61,9 @@ Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de
 	- Gabriel Torres
 
 ### 5.  Contacto
-El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escríbeme directamente a [http://wa.me/18609348375](http://wa.me/18609348375) o envíame un correo a rodrigotorresterrones@gmail.com. 
-No intentes hackearme, todas mis cuentas tienen multi-factor authentication y el número de WhatsApp no está ligado a mi correo. 😊
+El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escríbeme directamente a [http://wa.me/18609348375](http://wa.me/18609348375) o envíame un correo a rodrigotorresterrones@gmail.com
+No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentication y el número de WhatsApp no está ligado a mi correo. 😊
 
 
 
-Hecho con amor por Gabriel Torres desde mi aldea 💛 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
+Hecho con amor por Gabriel Torres 💛 desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
