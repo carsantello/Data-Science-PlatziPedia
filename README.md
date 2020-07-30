@@ -63,12 +63,10 @@ Es lo más sencillo posible. Si tienes una idea para mejorar hazmela saber por f
 
 ### 3. Guía rápida de formato para archivos `.md`
 Puedes encontrar material en las siguientes webs. Recuerda que esto es para agregarle algo especial a tu trabajo. Casi todo se puede hacer en Notion. 
-
-[https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
-[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+	- [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+	- [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 ### 4. Equipo
-
 Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de los estudiantes  de la escuela de Data Science en Platzi.💚  Para construir una fuente ordenada y sistematizada de información de escuela de Data Science. El equipo está integrado por:
 	-  
 	-  
