@@ -11,18 +11,18 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 ***¡Si tienes alguna sugerencia no dudes en mandar un mensaje!*** 
 
 ## Indice
-1. [Herramientas](https://github.com/RTorresT/Data-Science-Wiki#1-heramientas)
-2. [Workflow y guidelines](https://github.com/RTorresT/Data-Science-Wiki#2-workflow-y-guidelines)
-3. [Guía rápida de formado para archivos .md](https://github.com/RTorresT/Data-Science-Wiki#3-gu%C3%ADa-r%C3%A1pida-de-formato-para-archivos-md)
-4. [Equipo](https://github.com/RTorresT/Data-Science-Wiki#4-equipo)
-5. [Contacto](https://github.com/RTorresT/Data-Science-Wiki#5--contacto)
+1. [Herramientas](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#1-heramientas)
+2. [Workflow y guidelines](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#2-workflow-y-guidelines)
+3. [Guía rápida de formado para archivos .md](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#3-gu%C3%ADa-r%C3%A1pida-de-formato-para-archivos-md)
+4. [Equipo](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#4-equipo)
+5. [Contacto](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md5--contacto)
 ##   
 ### 1. Heramientas
 1. Editores visuales de texto WYSIWYG (What You See Is What You Get)
 	- [Notion](https://www.notion.so/): Además de ser el sugerido por su facilidad. En él controlamos el avance del proyecto usando GTD (Getting Things Done). Si te registras con coreo de estudiante `.edu` tienes plan Personal Pro.
 	-  [StackEdit.io](https://stackedit.io/): Es similar pero aporta una vista de código y de resultados en paralelo. Si has trabajado con LaTeX te será super familiar, tiene una curva de aprendizaje más pronunciada pero ofrece más herramientas.
 	- 101 Clip: Es útil para copiar y pegar gran cantidad de títulos y subtítulos de la web de Platzi a las notas, es un portapapeles. Sera util en el paso 2 del la parte 2. Te dejo un [link](https://www.majorgeeks.com/mg/getmirror/101_clips,1.html) para bajar la herramienta. 
-	- GitHub :octocat: : No necesita presentación. Aquí es donde compartiremos con el resto del universo 🌌. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [platzi.com/git](https://platzi.com/cursos/git-github/) un señor al que le gusta hacer voces chistosas te enseñara. 
+	- [GitHub](https://github.com/RTorresT/Data-Science-Wiki) :octocat: : No necesita presentación. Aquí es donde compartiremos con el resto del universo 🌌. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [platzi.com/git](https://platzi.com/cursos/git-github/) un señor al que le gusta hacer voces chistosas te enseñara. 
 	- [Lenguaje Tool](https://languagetool.org/): Es un revisor ortografico integrado al navegador, como gramarly pero en español. No se hace problema si escribes en diferentes idiomas a la vez. Lo sugiero porque Notion tiene problemas en este aspecto. 
 
 ### 2. Workflow y guidelines
