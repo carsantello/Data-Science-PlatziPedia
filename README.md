@@ -1,4 +1,4 @@
-#  Data-Science-PlatziPedia
+#  Data Science PlatziPedia
 Repositorio de notas y apuntes de los cursos que conforman la escuela de Data Science en Platzi.💚
 
 El objetivo es sistematizar la información de todos los cursos y servir de referencia a futuros estudiantes.
