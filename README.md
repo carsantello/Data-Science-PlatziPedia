@@ -1,11 +1,11 @@
 
 #  Data-Science-Wiki
-Repositorio de notas de los cursos que conforman la escuela de Data Science en Platzi.💚
+Repositorio de notas, apuntes y referencias de los cursos que conforman la escuela de Data Science en Platzi.💚
 
-El objetivo es sistematizar la información de todos los cursos y servir de referencia a futuros estudiantes.
+El objetivo es sistematizar la información de todos los cursos y servir de de base a futuros estudiantes.
 
-Por favor revisa las partes **1** y **2**  antes de empezar a colaborar; la parte **3** es consulta rápida para dar formato  a los `.md` (notion lo hace en automático, pero está ahí si es necesario).
-Para ir terminando la parte **4**  habla del equipo que hay detrás del proyecto y al finalizar en la parte **5** están mis datos de contacto. 
+Por favor revisa los apartados **1** y **2**  antes de empezar a colaborar; el **3** es consulta rápida para dar formato  a los `.md` (Notion lo hace en automático, pero está ahí si es necesario).
+Los dos ultimos. El apartado **4**  habla del equipo que hay detrás del proyecto y al finalizar en la parte **5** están mis datos de contacto. 
 
 En este proyecto demostramos una vez más que somos una comunidad increíble. 💚 
 
@@ -13,19 +13,19 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 
 ## Indice
 1. Herramientas 
-2. Workflow
-3. Guidelines
-4. Guía rápida de formado para archivos .md
+2. Workflow y guidelines
+3. Guía rápida de formado para archivos .md
+4. Equipo
 5. Contacto
 ##   
 ### 1. Heramientas
-1. Editores visuales de archivos .md:
-	- Notion: Además de ser el sugerido por su facilidad el es el cual controlamos nuestro avance. Si te registras con coreo de estudiante .edu tienes plan pro de forma gratuita.
+1. Editores visuales de texto WYSIWYG
+	- Notion: Además de ser el sugerido por su facilidad. En el controlamos el el avance del proyecto usando GTD. Si te registras con coreo de estudiante `.edu` tienes plan Personal Pro de forma gratuita.
 	-  StackEdit.io: Es similar pero aporta una vista de código y de resultados en paralelo. Si has trabajado con LaTeX te será super familiar, tiene una curva de aprendizaje más pronunciada pero ofrece más herramientas.
-	- GitHub :octocat: : No necesita presentación. Aquí es donde todos compartiremos con el resto del universo 🌌 nuestro trabajo. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [https://platzi.com/cursos/git-github/](https://platzi.com/cursos/git-github/) 
+	- GitHub :octocat: : No necesita presentación. Aquí es donde todos compartiremos con el resto del universo 🌌 nuestro trabajo. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [https://platzi.com/cursos/git-github/](https://platzi.com/cursos/git-github/) Freddy te enseñara.
 
-### 2. Workflow y Guidelines
-Es lo más sencillo posible.
+### 2. Workflow y guidelines
+Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por favor)
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
 2. Copia al cuaderno la estructura del curso.
 	 -	Ejemplo:
@@ -35,9 +35,9 @@ Es lo más sencillo posible.
 	- Ejemplo:
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
 - Ejemplo.
-6. Al terminar el curso envía tu trabajo al repositorio y muévelo a Evaluation, cuando sea revisado y agregado la rama master, se moverá a **Done**
+6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama master, se moverá a **Done**
 
-### 3. Guía rápida de formato para archivos .md
+### 3. Guía rápida de formato para archivos `.md`
 Puedes encontrar material en las siguientes webs. Recuerda que esto es para agregarle algo especial a tu trabajo. Casi todo se puede hacer en Notion. 
 
 [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
