@@ -76,6 +76,7 @@ Puedes encontrar material en las siguientes webs. Recuerda que esto es para agre
 Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de los estudiantes  de la escuela de Data Science en Platzi.💚  Para construir una fuente ordenada y sistematizada de información de escuela de Data Science.
 
 El equipo está integrado por:
+
 	-  
 	-  
 	-  
@@ -85,7 +86,7 @@ El equipo está integrado por:
 	-  
 	-  
 	-  
-	- Gabriel Torres
+	- Gabriel Torres 
 
 ### 5.  Contacto
 El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escríbeme directamente a [http://wa.me/18609348375](http://wa.me/18609348375) o envíame un correo a rodrigotorresterrones@gmail.com
