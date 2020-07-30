@@ -89,8 +89,8 @@ El equipo está integrado por:
 	- Gabriel Torres 
 
 ### 5.  Contacto
-El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escríbeme directamente a [http://wa.me/18609348375](http://wa.me/18609348375) o envíame un correo a rodrigotorresterrones@gmail.com
-No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentication y el número de WhatsApp no está ligado a mi correo. 😊
+El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escríbeme directamente a [whatsapp](http://wa.me/18609348375) público o envíame un correo a rodrigotorresterrones@gmail.com
+No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentication y el número de WhatsApp no está ligado a mi correo 😊.
 
 ##
 
