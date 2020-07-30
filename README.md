@@ -50,13 +50,6 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre muchos comentarios. Por favor haz una referencia simple al autor con el siguiente formato (Autor, link)
 > El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. 
-	- Ejemplo:
-	
-| Incorecto| Corecto |  
-|------------|-------------|  
-| <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/f1MZK0n/1-1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
-	
-
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
 - Ejemplo:
 
