@@ -3,7 +3,7 @@ Repositorio de notas y apuntes de los cursos que conforman la escuela de Data Sc
 
 El objetivo es sistematizar la información de todos los cursos y servir de referencia a futuros estudiantes.
 
-Por favor revisa los apartados **1** y **2**  antes de empezar a colaborar; el **3** es de consulta rápida para dar formato  a los `.md` (Notion lo hace en automático, pero está ahí si es necesario).
+Por favor revisa los apartados **1** y **2**  antes de empezar a colaborar, el **3** es de consulta rápida para dar formato  a los `.md` (Notion lo hace en automático, pero está ahí si es necesario).
 El apartado **4**  habla del equipo que hay detrás del proyecto y para finalizar en la parte **5** están mis datos de contacto. 
 
 En este proyecto demostramos una vez más que somos una comunidad increíble. 💚 
@@ -19,19 +19,20 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 ##   
 ### 1. Heramientas
 1. Editores visuales de texto WYSIWYG (What You See Is What You Get)
-	- [Notion](https://www.notion.so/): Además de ser el sugerido por su facilidad. En él controlamos el avance del proyecto usando GTD (Getting Things Done). Si te registras con coreo de estudiante `.edu` tienes plan Personal Pro de forma gratuita.
+	- [Notion](https://www.notion.so/): Además de ser el sugerido por su facilidad. En él controlamos el avance del proyecto usando GTD (Getting Things Done). Si te registras con coreo de estudiante `.edu` tienes plan Personal Pro.
 	-  StackEdit.io: Es similar pero aporta una vista de código y de resultados en paralelo. Si has trabajado con LaTeX te será super familiar, tiene una curva de aprendizaje más pronunciada pero ofrece más herramientas.
-	- 101 Clip: Es útil para copiar y pegar gran cantidad de títulos y subtítulos de la web de Platzi a las notas, es un portapapeles. Esto es para ayudar en el paso 2 del la parte 2. Te dejo un [link](https://www.majorgeeks.com/mg/getmirror/101_clips,1.html) para bajar la herramienta. 
-	- GitHub :octocat: : No necesita presentación. Aquí es donde compartiremos con el resto del universo 🌌 nuestro trabajo. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [platzi.com/git](https://platzi.com/cursos/git-github/) Freddy te enseñara.
+	- 101 Clip: Es útil para copiar y pegar gran cantidad de títulos y subtítulos de la web de Platzi a las notas, es un portapapeles. Sera util en el paso 2 del la parte 2. Te dejo un [link](https://www.majorgeeks.com/mg/getmirror/101_clips,1.html) para bajar la herramienta. 
+	- GitHub :octocat: : No necesita presentación. Aquí es donde compartiremos con el resto del universo 🌌 nuestro trabajo. Si aún no sabes como usarlo o no lo recuerdas puedes ir a  [platzi.com/git](https://platzi.com/cursos/git-github/) un señor al que le gusta hacer voces chistosas te enseñara. 
+	- [Lenguaje Tool](https://languagetool.org/) Es un revisor ortografico integrado al navegador, como gramarly pero en español. No se hace problema si escribes en diferentes idiomas a la vez. Lo sugiero porque Notion tiene problemas en este aspecto. 
 
 ### 2. Workflow y guidelines
-Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por favor)
-1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
+Es lo más sencillo posible. Si tienes una idea para mejorar hazmela saber por favor.
+1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**.
 	- Ejemplo:
 	
-| GTD del proyecto en Notion   |
-|------------|
-| <img  src="https://i.ibb.co/PxBGqCT/GTD.jpg"  alt="Kitten"  title="A cute kitten"  width="600"  />|
+	| GTD del proyecto en Notion   |
+	|------------|
+	| <img  src="https://i.ibb.co/PxBGqCT/GTD.jpg"  alt="Kitten"  title="A cute kitten"  width="600"  />|
 
 
 	
@@ -47,9 +48,9 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 |------------|-------------|  
 | <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/f1MZK0n/1-1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 	
-3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre muchos comentarios. Por favor haz una referencia simple al autor con el siguiente formato (Autor, link)
+3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre todos los demas. Por favor haz una referencia simple al autor con el siguiente formato '(Autor, link)'.
 > El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
-4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. 
+4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. Mientras mas estructuado mejor. 
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
 - Ejemplo:
 
