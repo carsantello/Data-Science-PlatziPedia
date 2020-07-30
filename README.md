@@ -30,9 +30,9 @@ Es lo más sencillo posible. Si tienes una idea para mejorar hazmela saber por f
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**.
 	- Ejemplo:
 	
-	| GTD del proyecto en Notion   |
-	|------------|
-	| <img  src="https://i.ibb.co/PxBGqCT/GTD.jpg"  alt="Kitten"  title="A cute kitten"  width="600"  />|
+		| GTD del proyecto en Notion   |
+		|------------|
+		| <img  src="https://i.ibb.co/PxBGqCT/GTD.jpg"  alt="Kitten"  title="A cute kitten"  width="600"  />|
 
 
 	
@@ -44,19 +44,19 @@ Es lo más sencillo posible. Si tienes una idea para mejorar hazmela saber por f
 	3. '###' Para cada clase. 
 	- Ejemplo:
 	
-| Web del curso en Platzi | Estructura del apuntes |  
-|------------|-------------|  
-| <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/f1MZK0n/1-1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
+		| Web del curso en Platzi | Estructura del apuntes |  
+		|------------|-------------|  
+		| <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/f1MZK0n/1-1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 	
 3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre todos los demas. Por favor haz una referencia simple al autor con el siguiente formato '(Autor, link)'.
-> El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
+	> El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. Mientras mas estructuado mejor. 
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
-- Ejemplo:
+	- Ejemplo:
 
-| Bloque de codigo | Linea de codigo |  
-|------------|-------------|  
-| <img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  height="235"  />|<img  src="https://i.ibb.co/GdMQXjR/code-lines.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
+		| Bloque de codigo | Linea de codigo |  
+		|------------|-------------|  
+		| <img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  height="235"  />|<img  src="https://i.ibb.co/GdMQXjR/code-lines.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 
 
 6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**
@@ -84,17 +84,6 @@ Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de
 ### 5.  Contacto
 El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escríbeme directamente a [http://wa.me/18609348375](http://wa.me/18609348375) o envíame un correo a rodrigotorresterrones@gmail.com
 No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentication y el número de WhatsApp no está ligado a mi correo. 😊
-![enter image description here](https://i.ibb.co/0y3h2d2/1.jpg)
 
-Hecho con amor por Gabriel Torres 💛 desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
-
-
-
-
-
-
-
-
-
-
-
+##
+Hecho con amor por Gabriel Torres 💛 Desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
