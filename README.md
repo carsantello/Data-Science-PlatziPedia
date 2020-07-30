@@ -30,20 +30,15 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por favor)
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
 	- Ejemplo:
-2. Copia al cuaderno la estructura del curso. Asi los apuntes tendran estructura.
+2. Copia al cuaderno la estructura del curso. Asi los apuntes tendran estructura. 
+	1. # Para el nombre del cusro.
+	2. ## Para las secciones
+	3. ### Para cada clase. 
 	- Ejemplo:
 	
 | Web del curso en Platzi | Estructura del apuntes |  
 |------------|-------------|  
 | <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/f1MZK0n/1-1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
-
-	
-	
-	
-	
-	
-	
-	
 	
 3. En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre muchos comentarios. Por favor haz una referencia simple al autor con el siguiente formato (Autor, link)
 > El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
