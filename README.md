@@ -90,4 +90,5 @@ El repositorio fue creado por Gabriel Torres. Si tienes alguna sugerencia escrí
 No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentication y el número de WhatsApp no está ligado a mi correo. 😊
 
 ##
-Hecho con amor por Gabriel Torres 💛 Desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
+Hecho con amor por Gabriel Torres 💛
+Desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
