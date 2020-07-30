@@ -73,7 +73,8 @@ Puedes encontrar material en las siguientes webs. Recuerda que esto es para agre
 [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 ### 4. Equipo
-Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de los estudiantes  de la escuela de Data Science en Platzi.💚  Para construir una fuente ordenada y sistematizada de información de escuela de Data Science. 
+Somos 9 personas, que quieren organizar y sistematizar los excelentes aportes de los estudiantes  de la escuela de Data Science en Platzi.💚  Para construir una fuente ordenada y sistematizada de información de escuela de Data Science.
+
 El equipo está integrado por:
 	-  
 	-  
@@ -93,4 +94,5 @@ No intentes hackearme por favor, todas mis cuentas tienen multi-factor authentic
 ##
 
 Hecho con amor por Gabriel Torres 💛.
+
 Desde mi aldea 🌻 para todos los estudiantes de Platzi 💚 en el universo 🌌.
