@@ -53,7 +53,11 @@ Enumera, usa puntos, evita poner bloques enormes de texto. Mientras mas estructu
 	
 		| Incorecto | Corecto |  
 		|------------|-------------|  
-		| <img  src="https://i.ibb.co/2vRP4JW/errores1.jpg"  alt="Kitten"  title="A cute kitten"   width="600" align="top"  />|<img  src="https://i.ibb.co/vPC8PxN/errores2.jpg"  alt="Kitten"  title="A cute kitten"  width="600" align="top" /> 
+		| <img  src="https://i.ibb.co/2vRP4JW/errores1.jpg"   width="600" align="top"  />|<img  src="https://i.ibb.co/vPC8PxN/errores2.jpg"  alt="Kitten"    width="600" align="top" /> 
+	
+	align="top"
+	
+	
 	
 5. Código
 Debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
