@@ -39,7 +39,7 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg)
 
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
-- Ejemplo:
+	- Ejemplo:
 6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**
 
 ### 3. Guía rápida de formato para archivos `.md`
