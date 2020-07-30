@@ -57,7 +57,7 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 
 | Bloque de codigo | Linea de codigo |  
 |------------|-------------|  
-| <img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
+| <img  src="https://i.ibb.co/FVGrZfb/codeblock.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/GdMQXjR/code-lines.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 
 
 6. Al terminar el curso envía tu trabajo al repositorio y muévelo a la columna **Evaluation**, cuando sea revisado y agregado la rama máster del repositorio, se moverá a **Done**
