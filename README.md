@@ -11,11 +11,11 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 ***¡Si tienes alguna sugerencia no dudes en mandar un mensaje!*** 
 
 ## Indice
-1. [Herramientas](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#1-heramientas)
-2. [Workflow y guidelines](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#2-workflow-y-guidelines)
-3. [Guía rápida de formado para archivos .md](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#3-gu%C3%ADa-r%C3%A1pida-de-formato-para-archivos-md)
-4. [Equipo](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md#4-equipo)
-5. [Contacto](https://github.com/RTorresT/Data-Science-Wiki/blob/master/README.md5--contacto)
+1. [Herramientas](https://github.com/RTorresT/Data-Science-Wiki##1-heramientas)
+2. [Workflow y guidelines](https://github.com/RTorresT/Data-Science-Wiki##2-workflow-y-guidelines)
+3. [Guía rápida de formado para archivos .md](https://github.com/RTorresT/Data-Science-Wiki##3-gu%C3%ADa-r%C3%A1pida-de-formato-para-archivos-md)
+4. [Equipo](https://github.com/RTorresT/Data-Science-Wiki##4-equipo)
+5. [Contacto](https://github.com/RTorresT/Data-Science-Wiki#5-Contacto)
 ##   
 ### 1. Heramientas
 1. Editores visuales de texto WYSIWYG (What You See Is What You Get)
