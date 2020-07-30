@@ -30,10 +30,10 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por favor)
 1. Al empezar un nuevo curso, muévelo de **ToDo** a la columna  **Doing**
 	- Ejemplo:
-2. Copia al cuaderno la estructura del curso.
+2. Copia al cuaderno la estructura del curso. Asi los apuntes tendran estructura.
 	- Ejemplo:
 	
-| col 1 | col 2 |  
+| Web del curso en Platzi | Estructura del apuntes |  
 |------------|-------------|  
 | <img  src="https://i.ibb.co/0y3h2d2/1.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  />|<img  src="https://i.ibb.co/rvjxt06/2.jpg"  alt="Kitten"  title="A cute kitten"  width="400"  /> 
 
@@ -49,7 +49,6 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 > El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. 
 	- Ejemplo:
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg)
 
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
 - Ejemplo:
