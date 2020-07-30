@@ -36,7 +36,6 @@ Es lo más sencillo posible. (Si tienes una idea para mejorar hazmela saber por 
 > El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. Enumera, usa puntos, evita poner bloques enormes de texto. 
 	- Ejemplo:
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79b06bff-6c71-43dc-a3be-31c0e971daac/faaaa1.jpg)
 
 5. El código debe estar en marcado, señalando el lenguaje, esto lo hace Notion en automático. Si es una línea corta igual ponle un formato. Todo está en las opciones de texto de Notion.
 	- Ejemplo:
