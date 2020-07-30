@@ -11,11 +11,11 @@ En este proyecto demostramos una vez más que somos una comunidad increíble. �
 ***¡Si tienes alguna sugerencia no dudes en mandar un mensaje!*** 
 
 ## Indice
-1. Herramientas 
-2. Workflow y guidelines
-3. Guía rápida de formado para archivos .md
-4. Equipo
-5. Contacto
+1. [Herramientas]  (https://github.com/RTorresT/Data-Science-Wiki#1-heramientas)
+2. [Workflow y guidelines] (https://github.com/RTorresT/Data-Science-Wiki#2-workflow-y-guidelines)
+3. [Guía rápida de formado para archivos .md] (https://github.com/RTorresT/Data-Science-Wiki#3-gu%C3%ADa-r%C3%A1pida-de-formato-para-archivos-md)
+4. [Equipo] (https://github.com/RTorresT/Data-Science-Wiki#4-equipo)
+5. [Contacto] (https://github.com/RTorresT/Data-Science-Wiki#5--contacto)
 ##   
 ### 1. Heramientas
 1. Editores visuales de texto WYSIWYG (What You See Is What You Get)
@@ -40,7 +40,7 @@ Es lo más sencillo posible. Si tienes una idea para mejorar, hazmela saber por 
 	
 2. Copia al cuaderno la estructura del curso. Asi los apuntes tendran estructura. 
 	1. '#' Para el nombre del cusro.
-	2. '##' Para las secciones
+	2. '##' Para las secciones.
 	3. '###' Para cada clase. 
 	- Ejemplo:
 	
