@@ -24,6 +24,10 @@ En este proyecto demostramos una vez más que somos una comunidad increíble �
 	- 101 Clip: Es útil para copiar y pegar gran cantidad de títulos y subtítulos de la web de Platzi a las notas, es un portapapeles. Sera util en el paso 2 del la parte 2. Te dejo un [link](https://www.majorgeeks.com/mg/getmirror/101_clips,1.html) para bajar la herramienta. 
 	- [GitHub](https://github.com/RTorresT/Data-Science-Wiki) :octocat: : No necesita presentación. Aquí es donde compartiremos con el resto del universo 🌌. Si aún no sabes como usarlo o no lo recuerdas puedes ir a [platzi.com/git](https://platzi.com/cursos/git-github/). 
 	- [Lenguaje Tool](https://languagetool.org/): Es un revisor ortografico integrado al navegador, como gramarly pero en español. No se hace problema si escribes en diferentes idiomas al mismo tiempo. Lo sugiero porque Notion tiene problemas en este aspecto. 
+	
+		| Integracion de Lenguaje Tool con Notion en Chrome   |
+		|------------|
+		| <img  src="https://i.ibb.co/YfWB31D/LTworking.jpg"  alt="Kitten"  title="A cute kitten"  width="600"  />|
 
 ### 2. Workflow y guidelines
 Es lo más sencillo posible. Si tienes una idea para mejorar, hazmela saber por favor usa este [formaulario](https://forms.gle/ECTwTigseVgrvFQ16).
