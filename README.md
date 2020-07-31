@@ -50,7 +50,7 @@ Es lo más sencillo posible. Si tienes una idea para mejorar, hazmela saber por 
 	
 3. Sigue el orden propuesto por Platzi.
 En cada subtítulo haz tu resumen. Te animo a revisar la sección de comentarios, hay estudiantes que han realizado aportes excepcionales, solo están perdidos entre todos los demas. Por favor haz una referencia simple al autor con el siguiente formato '(Autor, link)'.
-	> El que busca encuentra. (Mi Abuelita, [platzi.com/comentario/1/](https://platzi.com/comentario/1/))
+	> El que busca encuentra. (Mi Abuelita, ['platzi.com/comentario/1/'](https://platzi.com/comentario/1/))
 4. Mientras más estructurado mejor. 
 Enumera, usa puntos, evita poner bloques enormes de texto. Mientras mas estructuado mejor, doble para que no lo olvides.
 	- Ejemplo:
